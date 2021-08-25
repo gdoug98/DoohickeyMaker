@@ -1,0 +1,1 @@
+Project summary: Simple Java Swing project, using .csv file to simulate backend. Single-user desktop application, MVVM architecture
